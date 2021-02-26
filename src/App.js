@@ -8,6 +8,7 @@ function App() {
       <div className="row">
         <Links />
       </div>
+    Pagina principal
     </div>
   );
 }
